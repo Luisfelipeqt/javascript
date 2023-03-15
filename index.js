@@ -1,2 +1,5 @@
-let favoriteFood = "Laura Vitória Silva Campelo"
-document.getElementById("text").innerHTML = favoriteFood
+
+
+
+let value = Number(prompt("Enter the product value!"))
+console.log(typeof(value))
