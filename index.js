@@ -1,1 +1,2 @@
-document.getElementById("text").innerHTML = "burguer"
+let favoriteFood = "Laura Vitória Silva Campelo"
+document.getElementById("text").innerHTML = favoriteFood
