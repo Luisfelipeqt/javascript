@@ -1,1 +1,1 @@
-console.log("Luis Felipe")
+document.getElementById("text").innerHTML = "burguer"
